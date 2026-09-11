@@ -169,3 +169,14 @@ Todo script, archivo de configuración, documentación técnica o encabezado de 
 * Control estricto de ejecuciones al cierre de vela mediante la función `IsNewBar()` en `OnTick()`.
 * Consulta segura de datos diarios desde `shift = 1` (vela diaria cerrada) para cálculo de ATR y niveles de barrera.
 * Error Masking en Python: Al escribir scripts de soporte o análisis, usar `type(err).__name__` en bloques `except` con sufijo `(detalles omitidos por seguridad)`.
+
+---
+
+## 7. Base de Formación Cuantitativa Canónica (Las 100 Preguntas)
+
+Para cualquier consulta conceptual, teórica, algorítmica o de resolución de problemas planteada por el alumno, el agente debe consultar y apoyarse en la **Guía Canónica de Formación Cuantitativa** ([`MT5/GUIA_100_PREGUNTAS_TRADING_CUANTITATIVO.md`](file:///Users/fmillar/Proyectos_Desarrollo/seminario_2-public/MT5/GUIA_100_PREGUNTAS_TRADING_CUANTITATIVO.md)) y sus 4 pilares científicos modulares:
+- **Pilar 1: Entorno, Plataformas & Datos:** [`MT5/docs_educativos/PILAR_1_ENTORNO_Y_DATOS.md`](file:///Users/fmillar/Proyectos_Desarrollo/seminario_2-public/MT5/docs_educativos/PILAR_1_ENTORNO_Y_DATOS.md) (Q001 a Q025).
+- **Pilar 2: Hipótesis, HITL & Lógica:** [`MT5/docs_educativos/PILAR_2_HIPOTESIS_Y_LOGICA.md`](file:///Users/fmillar/Proyectos_Desarrollo/seminario_2-public/MT5/docs_educativos/PILAR_2_HIPOTESIS_Y_LOGICA.md) (Q026 a Q050).
+- **Pilar 3: Código, Compilación & Paridad:** [`MT5/docs_educativos/PILAR_3_CODIGO_Y_PARIDAD.md`](file:///Users/fmillar/Proyectos_Desarrollo/seminario_2-public/MT5/docs_educativos/PILAR_3_CODIGO_Y_PARIDAD.md) (Q051 a Q075).
+- **Pilar 4: Backtesting & Optimización:** [`MT5/docs_educativos/PILAR_4_BACKTESTING_Y_AUDITORIA.md`](file:///Users/fmillar/Proyectos_Desarrollo/seminario_2-public/MT5/docs_educativos/PILAR_4_BACKTESTING_Y_AUDITORIA.md) (Q076 a Q100).
+
